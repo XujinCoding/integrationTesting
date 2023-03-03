@@ -9,16 +9,17 @@
         <module name="jvm" />
         <module name="spring-boot" />
         <module name="ALG" />
+        <module name="java-operation" />
         <module name="design-mode" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="ALG" options="-parameters" />
-      <module name="design-mode" options="-parameters" />
-      <module name="jvm" options="-parameters" />
-      <module name="spring-boot" options="-parameters" />
+      <module name="ALG" options="" />
+      <module name="design-mode" options="" />
+      <module name="jvm" options="" />
+      <module name="spring-boot" options="" />
     </option>
   </component>
 </project>
